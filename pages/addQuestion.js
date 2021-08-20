@@ -16,9 +16,8 @@ export default function addQuestion() {
             {accordionData.map(({ title, content }) => {
               return <Accordion title={title} content={content} />;
             })}
-            
           </div>
-          <div className="w-[100%] flex sm:flex-row flex-col sm:items-start items-center justify-between gap-4">
+          <div className="w-[100%] flex sm:flex-row flex-col sm:items-start items-center mb-16 justify-between gap-4">
             {/* Left Side */}
             <left className="w-full sm:w-[60%] flex flex-col">
               {/* 1st Step */}

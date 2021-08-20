@@ -8,7 +8,7 @@ export default function questions() {
       <div className="bg-green-50 h-auto">
         <div className="w-[100%] flex sm:flex-row flex-col sm:items-start items-center justify-between px-4 sm:px-24 gap-4">
           {/* Left Side */}
-          <left className="mt-24 w-full sm:w-[60%] flex flex-col">
+          <left className="mt-24 mb-16 w-full sm:w-[60%] flex flex-col">
             {/* 1st Step */}
             <div className="flex flex-col items-start justify-center p-4 bg-white">
               <h4 className="text-base font-medium">
