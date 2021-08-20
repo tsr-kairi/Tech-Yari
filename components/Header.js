@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Image from "next/image";
-import { FaPlus } from "react-icons/fa";
+import { FaBars, FaPlus } from "react-icons/fa";
 import Link from "next/link";
 import { AiOutlinePlus } from "react-icons/ai";
 
@@ -47,8 +47,11 @@ function Header() {
               </div>
             </a>
           </Link>
+          {/* <FaBars className="sm:mt-0 mt-1 sm:hidden flex items-center ml-2" /> */}
         </div>
       </div>
+
+      {/* Mobile */}
     </header>
   );
 }
