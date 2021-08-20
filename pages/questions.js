@@ -53,25 +53,25 @@ export default function questions() {
                 <div className="flex gap-2 sm:gap-3">
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] rounded-[50px] px-3 text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] rounded-[50px] px-3 text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Djnago
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     URL
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Patterns
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Define
                   </a>
@@ -171,25 +171,25 @@ export default function questions() {
                 <div className="flex gap-2 sm:gap-3">
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Djnago
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     URL
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Patterns
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Define
                   </a>
@@ -241,25 +241,25 @@ export default function questions() {
                 <div className="flex gap-2 sm:gap-3">
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Djnago
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     URL
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Patterns
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-xs border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Define
                   </a>
@@ -319,25 +319,25 @@ export default function questions() {
                 <div className="flex gap-4 sm:gap-3">
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Djnago
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     URL
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Patterns
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Define
                   </a>
@@ -380,25 +380,25 @@ export default function questions() {
                 <div className="flex gap-4 sm:gap-3">
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Djnago
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     URL
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Patterns
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Define
                   </a>
@@ -441,25 +441,25 @@ export default function questions() {
                 <div className="flex gap-4 sm:gap-3">
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Djnago
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     URL
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Patterns
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Define
                   </a>
@@ -502,25 +502,25 @@ export default function questions() {
                 <div className="flex gap-4 sm:gap-3">
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Djnago
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     URL
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Patterns
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Define
                   </a>
@@ -563,25 +563,25 @@ export default function questions() {
                 <div className="flex gap-4 sm:gap-3">
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Djnago
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     URL
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Patterns
                   </a>
                   <a
                     href="#"
-                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] hover:border border-[#1FCACA]"
+                    className="bg-gray-300 text-black py-[1px] px-3 rounded-[50px] text-[10px] sm:text-[10px] border-2 border-transparent border-solid hover:border-[#7fb6b6]"
                   >
                     Define
                   </a>
