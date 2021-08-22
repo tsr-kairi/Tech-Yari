@@ -286,6 +286,7 @@ export default function questions() {
             <h1 className="text-xl w-[45%] sm:w-[35%] mt-2 font-bold hover:border-b border-green-500">
               Trending QNA's
             </h1>
+
             <div className="flex flex-col items-start justify-center mt-4 p-4 bg-white">
               <h4 className="text-sm font-medium">
                 How to Define URL Patterns in Djnago 3.1?
