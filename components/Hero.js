@@ -21,6 +21,7 @@ function Hero() {
           />
           <FiSearch className="text-2xl sm:mr-0 mr-8 text-gray-400 hover:text-[#1FCACA]" />
         </form>
+
         <div className="sm:flex mt-8 sm:flex-row grid grid-cols-3 gap-4 cursor-pointer">
           <span className="bg-[#1FCACA] text-black py-[3px] px-4 transform hover:scale-110 duration-500 ease-in-out origin-center transition rounded-[50px] text-sm">
             Javascript

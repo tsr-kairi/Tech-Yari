@@ -23,8 +23,7 @@ function Accordion(props) {
       <p
         class={
           isActive
-            ? "border px-4 py-3 my-2 text-gray-700 hidden"
-            : "border px-4 py-3 my-2 text-gray-700"
+            ? "border px-4 py-3 my-2 text-gray-700 hidden" : "border px-4 py-3 my-2 text-gray-700"
         }
       >
         {props.content}
